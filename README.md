@@ -1,3 +1,3 @@
-[My Resume](https://github.com/mithhu/mithhu/resume.pdf)
+[My Resume](https://github.com/mithhu/mithhu/blob/main/Mahamudul_Hasan_resume.pdf)
 
 
